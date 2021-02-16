@@ -336,3 +336,10 @@ and the following plots
 <img src= "CL-JNJ-Scatter.png" width="500">
 <img src= "JNJ-MSFT-Time-Series.png" width="500">
 <img src= "JNJ-MSFT-Scatter.png" width="500">
+
+
+# Interpretation
+
+CL and JNJ are both very similar, buying both stocks will lead to a concentration of risk. If one of the two stocks falls, the other will fall as well. The two values correlate strongly with each other.
+
+In order to be diversified, you should find companies that have a low correlation with each other so that you don't risk all the eggs in your basket in the event of a crash.
