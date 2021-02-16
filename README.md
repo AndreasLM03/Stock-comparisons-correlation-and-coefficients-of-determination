@@ -332,7 +332,7 @@ As a result we get a CSV list with the following entries
 
 and the following plots
 
-<img src= "CL-JNJ-Time-Series.png" width="800">
-<img src= "CL-JNJ-Scatter.png" width="800">
-<img src= "JNJ-MSFT-Time-Series.png" width="800">
-<img src= "JNJ-MSFT-Scatter.png" width="800">
+<img src= "CL-JNJ-Time-Series.png" width="500">
+<img src= "CL-JNJ-Scatter.png" width="500">
+<img src= "JNJ-MSFT-Time-Series.png" width="500">
+<img src= "JNJ-MSFT-Scatter.png" width="500">
